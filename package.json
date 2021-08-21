@@ -51,7 +51,7 @@
     "core-js": "^3.6.5",
     "cross-env": "^7.0.2",
     "css-loader": "^3.5.3",
-    "eslint": "^7.2.0",
+    "eslint": "^7.32.0",
     "eslint-config-eslint": "^6.0.0",
     "eslint-plugin-jsdoc": "^27.0.4",
     "eslint-plugin-jsx-a11y": "^6.2.3",
